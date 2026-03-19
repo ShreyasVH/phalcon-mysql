@@ -1,4 +1,4 @@
-# php 8.2.14 path
+# php 8.4.17 path
 export PATH=
 
 export PORT=
@@ -11,6 +11,5 @@ export MYSQL_PASSWORD=
 
 export MYSQL_VERSION=
 
-# mysql 9.0.1 path
+# mysql 9.6.0 path
 export PATH=
-
